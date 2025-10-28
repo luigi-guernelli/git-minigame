@@ -40,7 +40,3 @@ Dopo ogni tentativo, fornisce un suggerimento (“Troppo alto” o “Troppo bas
 | `while` | Ripete istruzioni finché la condizione è vera |
 | `if/else` | Esegue blocchi di codice in base a condizioni |
 | `int` | Tipo di dato numerico intero |
-
----
-
-## 📦 Struttura del progetto
